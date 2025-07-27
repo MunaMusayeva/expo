@@ -1,17 +1,3 @@
-// import { StyleSheet, Text, View } from 'react-native'
-// import React from 'react'
-
-// const Details = () => {
-//   return (
-//     <View style={{flex:1, justifyContent: 'center', alignItems: 'center'}}>
-    
-//       <Text>Details Page</Text>
-//     </View>
-//   )
-// }
-
-// export default Details
-
 import { Text, View, TouchableOpacity } from 'react-native';
 import React from 'react';
 import { useRouter } from 'expo-router';
